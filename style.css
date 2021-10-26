@@ -1,7 +1,8 @@
 
 .container{
     margin-bottom: 100px;
-}
+} 
+/*  part 2 */
 .orrange-bg{
     background-color:pink;
     border-radius: 20px;
@@ -17,6 +18,9 @@
     border-radius: 5px;
     padding: 2px;
 }
+/* finished  part  2*/
+
+/* start part  3*/
 .cat1{
     background-color: pink;
     padding: 10px 31px;
@@ -33,10 +37,14 @@
 .catagories img{
     width: 100px;
 }
+/* finished  part  3*/
+
+/* start part  4*/
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
 }
+/* finished  part  5*/
 .pink{
     background-color: lightpink;
     
